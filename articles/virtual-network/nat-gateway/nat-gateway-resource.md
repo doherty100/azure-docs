@@ -232,6 +232,8 @@ Design recommendations for configuring timers:
 
 - IP fragmentation isn't available for NAT gateway.
 
+- NAT gateway doesn't work with private endpoints or private networks.
+
 ## Next steps
 
 - Review [virtual network NAT](nat-overview.md).
